@@ -1,6 +1,3 @@
-<h1 align="center"> :bookmark_tabs: Enuygun - Test Automation Bootcamp - HW5_2 </h1>
- 
-
 > ###  ``` Appium ile Contact Manager uygulamasının senaryoları   ``` 
  
 Uygulama tam anlamıyla çalışmadığı için assertler maalesef istenildiği gibi yazılamadı. Senaryolar çıkartılmaya çalışıldı.
